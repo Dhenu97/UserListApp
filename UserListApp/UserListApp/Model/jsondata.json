@@ -1,0 +1,64 @@
+
+{
+"users": [
+{
+"name": "dhenu",
+"LastName" : "ccc",
+"city" : "Hyderbad",
+"State" : "Telangan",
+"country" : "India",
+"Street" : "vasanthapuricolony",
+"pincode" : "500040",
+"phonenumber": "12345678",
+"age" : "18"
+
+},
+{
+"name": "sasi",
+"LastName" : "ccc",
+"city" : "Hyderbad",
+"State" : "Telangan",
+"country" : "India",
+"Street" : "vasanthapuricolony",
+"pincode" : "500040",
+"phonenumber": "12345678",
+"age" : "18"
+
+},
+{
+"name": "chakri",
+"LastName" : "ccc",
+"city" : "Hyderbad",
+"State" : "Telangan",
+"country" : "India",
+"Street" : "vasanthapuricolony",
+"pincode" : "500040",
+"phonenumber": "12345678",
+"age" : "18"
+},
+{
+"name": "santosh",
+"LastName" : "ccc",
+"city" : "Hyderbad",
+"State" : "Telangan",
+"country" : "India",
+"Street" : "vasanthapuricolony",
+"pincode" : "500040",
+"phonenumber": "12345678",
+"age" : "18"
+
+},
+{
+    "name": "akshay",
+    "LastName" : "ccc",
+    "city" : "Hyderbad",
+    "State" : "Telangan",
+    "country" : "India",
+    "Street" : "vasanthapuricolony",
+    "pincode" : "500040",
+    "phonenumber": "12345678",
+    "age" : "18"
+    
+}
+]
+}
